@@ -1,0 +1,20 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 9819-A393
+
+ Directory of C:\Users\imrashid\OneDrive - Deloitte (O365D)\Audit Engagements\EPIC\Provided by client\Requisition multiple heads 06062022\CIPL-Audit requisition Inventory-10\CIPL-Audit requisition Inventory-10
+
+06/14/2022  11:28 AM    <DIR>          .
+06/14/2022  11:28 AM    <DIR>          ..
+06/14/2022  11:08 AM    <DIR>          2112005313
+06/14/2022  11:08 AM    <DIR>          2112005387
+06/14/2022  11:08 AM    <DIR>          2112005569
+06/14/2022  11:08 AM    <DIR>          2112005887
+06/14/2022  11:08 AM    <DIR>          2112006694
+06/14/2022  11:08 AM    <DIR>          2112006726
+06/14/2022  11:08 AM    <DIR>          2112006767
+06/14/2022  11:08 AM    <DIR>          2112006808
+06/14/2022  11:08 AM    <DIR>          2112007061
+06/14/2022  11:08 AM    <DIR>          2112007348
+06/14/2022  11:28 AM                 0 files.txt
+               1 File(s)              0 bytes
+              12 Dir(s)  368,816,668,672 bytes free
